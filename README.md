@@ -60,7 +60,7 @@ $ php app/console assets:install --symlink web
 ``` yaml
 trsteel_ckeditor:
     external_plugins:
-      uploadwidget:
+      filetools:
         path: 'bundles/stingerckeditorfiletools'
 ```
 
