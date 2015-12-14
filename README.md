@@ -3,7 +3,7 @@ Symfony2 Bundle to integrate the CKEditor plugin File Tools
 
 ## Current Version
 
-FileTools v4.5.3
+FileTools v4.5.6
 
 ## Installation
 
@@ -15,7 +15,7 @@ FileTools v4.5.3
 {
     "require": {
 		// ...
-        "stinger/ckeditor-filetools-bundle": "~4.5.3"
+        "stinger/ckeditor-filetools-bundle": "~4.5.6"
     }
 }
 ```
